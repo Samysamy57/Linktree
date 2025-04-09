@@ -23,7 +23,7 @@ const links = [
     icon: <BsFillPersonVcardFill className="mt-0.5" style={{ color: '#0ea5e9' }} />
   },
   {
-    href: "https://github.com/HOTHEAD01TH",
+    href: "https://github.com/Samysamy57",
     label: "GitHub",
     icon: <FaGithub className="mt-0.5" style={{ color: '#6e7681' }} />
   },
@@ -33,7 +33,7 @@ const links = [
     icon: <FaTwitter className="mt-0.5" style={{ color: '#1DA1F2' }} />
   },
   {
-    href: "https://linkedin.com/in/hothead01th",
+    href: "https://www.linkedin.com/in/samy-babouri",
     label: "LinkedIn",
     icon: <FaLinkedin className="mt-0.5" style={{ color: '#0A66C2' }} />
   },
@@ -42,11 +42,7 @@ const links = [
     label: "Instagram",
     icon: <FaInstagram className="mt-0.5" style={{ color: '#E4405F' }} />
   },
-   {
-     href: "https://hothead01th.hashnode.dev",
-     label: "Blog",
-     icon: <FaHashnode className="mt-0.5" style={{ color: '#2962FF' }} />
-   },
+   
 ];
 
 export default function Home() {

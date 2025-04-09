@@ -5,7 +5,7 @@ export const TypewriterEffect = () => {
   const [text, setText] = useState("");
   const [isDeleting, setIsDeleting] = useState(false);
   const [loopNum, setLoopNum] = useState(0);
-  const messages = ["Full Stack Developer", "DevOps Engineer"];
+  const messages = ["Full Stack Developer", "Ingénieur Informatique████▒▒▒▒▒▒30%"];
   const period = 1000;
   const [delta, setDelta] = useState(100);
 

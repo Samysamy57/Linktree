@@ -10,7 +10,7 @@ const generateMatrixText = (length: number): string => {
 };
 
 export const GlitchText = () => {
-  const [text, setText] = useState('ZAID ADIL');
+  const [text, setText] = useState('SAMY BABOURI');
   const [isGlitching, setIsGlitching] = useState(false);
 
   useEffect(() => {
@@ -22,7 +22,7 @@ export const GlitchText = () => {
         if (stage < 8) {
           setText(generateMatrixText(8));
         } else if (stage === 8) {
-          setText(text === 'ZAID ADIL' ? 'HOT HEAD' : 'ZAID ADIL');
+          setText(text === 'SAMY BABOURI' ? 'SB' : 'SAMY BABOURI');
           setIsGlitching(false);
           clearInterval(glitchSequence);
         }
