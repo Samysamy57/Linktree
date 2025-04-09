@@ -28,7 +28,7 @@ const links = [
     icon: <FaGithub className="mt-0.5" style={{ color: '#6e7681' }} />
   },
   {
-    href: "https://x.com/HOTHEAD01TH",
+    href: "https://x.com/samsamy57",
     label: "Twitter",
     icon: <FaTwitter className="mt-0.5" style={{ color: '#1DA1F2' }} />
   },
@@ -38,7 +38,7 @@ const links = [
     icon: <FaLinkedin className="mt-0.5" style={{ color: '#0A66C2' }} />
   },
   {
-    href: "https://instagram.com/hothead01th",
+    href: "https://www.instagram.com/samy57samy",
     label: "Instagram",
     icon: <FaInstagram className="mt-0.5" style={{ color: '#E4405F' }} />
   },
