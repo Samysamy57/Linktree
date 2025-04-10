@@ -18,7 +18,7 @@ const ClientWrapper = dynamic(() => import('./components/ui/client-wrapper'), {
 
 const links = [
   {
-    href: "https://hothead01th.vercel.app",
+    href: "https://samy-babouri-portfolio.vercel.app/",
     label: "Portfolio",
     icon: <BsFillPersonVcardFill className="mt-0.5" style={{ color: '#0ea5e9' }} />
   },
